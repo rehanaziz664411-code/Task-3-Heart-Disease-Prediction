@@ -16,7 +16,7 @@ Build a classification model to identify heart disease risk based on patient med
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
